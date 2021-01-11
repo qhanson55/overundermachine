@@ -1,0 +1,1 @@
+# TODO do a team stats scraper

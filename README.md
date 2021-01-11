@@ -6,4 +6,4 @@ This will give you the amount of games the team has gone above or below the curr
 
 input example:
 
-python overunder.py [YEAR] [OVERUNDERSCORE] [CITYNAME] [TEAMNAME]
+python overunder.py [YEAR] [OVERUNDERSCORE] [TEAM1ABRV] [TEAM2ABRV]
